@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+}
+
+p {
+    color: red;
+}
