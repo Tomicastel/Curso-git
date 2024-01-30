@@ -1,4 +1,13 @@
 console.log("Hola mundo!");
 
-const animales = ['perro','gato']
-
+var personas = [
+    {
+        nombre: "Tomas",
+        apellido: "Castellano"
+    },
+    {
+        nombre: "Pablo",
+        apellido: "Castellano"
+    }
+]
+    
